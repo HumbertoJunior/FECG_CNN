@@ -1,0 +1,5 @@
+,MicroBlaze,Leon3,Nios II,MIPSfpga
+Open Source,Não,Sim,Não,Sim
+Licença Gratuita,Não,Sim,Sim,Sim
+Portabilidade entre FPGAs,Limitado (Xilinx),Amplo,Limitado (Altera),Amplo
+Suporte e Comunidade,Amplo,Limitado,Amplo,Amplo
